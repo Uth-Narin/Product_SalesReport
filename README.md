@@ -11,7 +11,7 @@
 
 3. **Run the SQL script** located at:
    ```
-   /SQL/CreateAndSeed_ProductSales.sql
+   /SQLScript/CreateAndSeed_ProductSales.sql
    ```
    This will create and populate the `ProductSales` table.
 
